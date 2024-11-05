@@ -25,3 +25,7 @@ pnpm-debug.log*
 
 #Electron-builder output
 /dist_electron
+.history
+yarn.lock
+feature/yarn.lock
+*-lock.json
